@@ -1,3 +1,4 @@
+
 # Markdown Portfolio
 
 In this assignment, you'll create a simple web page built with Markdown that displays information about yourself.
@@ -10,6 +11,7 @@ If you ever have any questions about Markdown syntax, feel free to reference the
 1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
     * Roger Loya
     * At least one picture
+      * ![d409cb579c559e4c3dfcb93b3a534af0_large](https://user-images.githubusercontent.com/31164770/132386897-88d8e6e8-155e-4496-a632-8c52d75e0928.jpeg)
     * https://www.linkedin.com/in/rogerloya/
     * At least one bullet point list
       * I am creating a bullet point list.
