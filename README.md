@@ -8,9 +8,9 @@ If you ever have any questions about Markdown syntax, feel free to reference the
 
 1. Start by forking this repository
 1. In your "fork" of the repository, edit the `README.md` and replace all of the previous content with your own Markdown which should contain:
-    * A title (your name)
+    * Roger Loya
     * At least one picture
-    * At least one link (this could be to your GitHub page, your LinkedIn, or whatever you want)
+    * https://www.linkedin.com/in/rogerloya/
     * At least one bullet point list
     * At least one numbered list
 1. Once you've added all of the previous elements, read through this markdown cheatsheet (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and add one additional element not previously listed
